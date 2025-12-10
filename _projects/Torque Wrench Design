@@ -6,7 +6,7 @@ technologies: [3dFusion, ANSYS]
 image: "/assets/images/TorqueWrenchRendered.jpg"
 ---
 
-!![Alt_text]({{ "/assets/images/TorqueWrenchRendered.jpg" | relative_url }})
+![Alt_text]({{ "/assets/images/TorqueWrenchRendered.jpg" | relative_url }})
 ![Dimensions]({{ "/assets/images/Screenshot 2025-12-10 at 3.28.16 PM.png" | relative_url }})
 ![Stress analysis]({{ "/assets/images/TorqueWrench-Analysis.png" | relative_url }})
 
