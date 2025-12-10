@@ -6,7 +6,7 @@ technologies: [3dFusion, ANSYS]
 image: 
 ---
 
-![alt text](<../Screenshot 2025-12-10 at 3.28.16 PM.png>)
+![alt text](![<../Screenshot 2025-12-10 at 3.28.16 PM.png>](<../Screenshot 2025-12-10 at 3.28.16 PM.png>))
 
 Anyone who using a torque wrench or other hand tool knows that one of the most important attributes of the material and design chosen is life cycle. In choosing a material for my design, I opted for one which I could confidently say would last longer than a user would ever need it, and a design that would never fail them. I chose a low alloy steel, specifically AISI 9255, oil quenched and tempered at 205 degC. I specifically searched for a material that had been tempered and hardened using metal cold, hot, and press forming to remove deformations and imperfections in an otherwise untempered material. The steel has a Young’s Modulus of 31.3E6 psi, yield strength of 327 ksi, Poisson’s ratio of 0.295, and fatigue strength at 106 cycles of 102 ksi. 
 
