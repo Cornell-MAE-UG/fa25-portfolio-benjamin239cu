@@ -3,7 +3,7 @@ layout: project
 title: Cable Wrapper
 description: Cable wrapper and carrier I designed
 technologies: [3dFusion, Machining]
-image: <Screenshot 2025-12-09 at 3.14.04 PM-1.png>
+image:
 ---
 
 
