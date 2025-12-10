@@ -6,7 +6,10 @@ technologies: [3dFusion, ANSYS]
 image: "/assets/images/TorqueWrenchRendered.jpg"
 ---
 
-[TorqueWrench-Dimensions.png](https://github.com/Cornell-MAE-UG/fa25-portfolio-benjamin239cu/blob/79f1536dd66f4f4cd65073c6031bc212e7c54965/assets/images/TorqueWrench-Dimensions.png)
+![Rendered]({{ "/assets/images/TorqueWrenchRendered.jpg" | relative_url }})
+
+![Dimensions]({{ "/assets/images/TorqueWrench-Dimensions.png" | relative_url }})
+
 
 ---
 #### Overview
