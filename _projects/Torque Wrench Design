@@ -1,31 +1,17 @@
 ---
 layout: project
 title: Torque Wrench Design
-description: A long lasting and unfailing torque wrench, designed in Fusion360 and analyzed using ANSYS.
-technologies: [3dFusion, ANSYS]
+description: CAD/ANSYS Project
+technologies: [Autodesk Fusion]
 image: /assets/images/TorqueWrenchRendered.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+Anyone whose used a torque wrench or other hand tool knows that one of the most important attributes of the material and design chosen is life cycle. In choosing a material for my design, I opted for one which I could confidently say would last longer than a user would ever need it, and a design that would never fail them. I chose a low alloy steel, specifically AISI 9255, oil quenched and tempered at 205 degC. I specifically searched for a material that had been tempered and hardened using metal cold, hot, and press forming to remove deformations and imperfections in an otherwise untempered material. The steel has a Young’s Modulus of 31.3E6 psi, yield strength of 327 ksi, Poisson’s ratio of 0.295, and fatigue strength at 106 cycles of 102 ksi. 
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+![Dimensions of torque wrench]({{ "/assets/images/TorqueWrench-Dimensions" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
-
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-I was inspired by this old radio when I made this rendering:
-
-![Photo of old radio]({{ "/assets/images/settings.png" | relative_url }}){: .inline-image-l}
+![Normal strain in wrench along strain gauge axis]({{ "/assets/images/NormalStrain.png" | relative_url }}){: .inline-image-l}
 
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-
-![Dimensions]({{ "/assets/images/TorqueWrenchRendered.jpg" | relative_url }}){: .inline-image-l}
-
-
-Anyone whose used a torque wrench or other hand tool knows that one of the most important attributes of the material and design chosen is life cycle. In choosing a material for my design, I opted for one which I could confidently say would last longer than a user would ever need it, and a design that would never fail them. I chose a low alloy steel, specifically AISI 9255, oil quenched and tempered at 205 degC. I specifically searched for a material that had been tempered and hardened using metal cold, hot, and press forming to remove deformations and imperfections in an otherwise untempered material. The steel has a Young’s Modulus of 31.3E6 psi, yield strength of 327 ksi, Poisson’s ratio of 0.295, and fatigue strength at 106 cycles of 102 ksi.
